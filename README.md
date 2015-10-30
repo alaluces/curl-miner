@@ -9,6 +9,4 @@ Example: ./mine.php 0 20 >> leads.csv
 
 20151030 - First
 <br>
-20151031 - Cleanup
-<br>
-         - Start and end values are accepted as argument
+20151031 - Cleanup, Start and end values are accepted as argument
