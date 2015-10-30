@@ -1,4 +1,4 @@
-<b>cURL Miner<b>
+<b>cURL Miner</b>
 <br>
 Uses simple_html_dom.php and cURL via shell_exec()
 <br>
